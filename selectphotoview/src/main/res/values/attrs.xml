@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SelectPhotoView">
+        <attr name="photo_count" format="integer" />
+        <attr name="photo_lineSpace" format="dimension" />
+        <attr name="icon_delete" format="reference" />
+        <attr name="icon_play" format="reference" />
+        <attr name="icon_audioDefault" format="reference" />
+    </declare-styleable>
+</resources>
